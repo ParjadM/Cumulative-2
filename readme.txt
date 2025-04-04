@@ -1,4 +1,7 @@
-C# Cumulative Part 1 
+C# Cumulative Part 2
+
+Extended From Cumulative part 1 it's name originally C1 not C2 but it's C2 with all the features!
+
 
 This ASP.NET Core MVC web application implements the READ functionality for managing teacher/course/student data in the school database that was provided by the teacher. It provides API endpoints for retrieving teacher information and web pages for displaying teacher list and individual teacher details, and does the same for course and students. Important feature includes API endpoints at /api/teacher and /api/teacher/{id}, web page at /TeacherPage/List and /TeacherPage/Show/{id}, search functionality on the teacher list page, Entity Framework for Data Access and swagger for API documents. I'll be focusing on teacher API however the same is done with student and course API as well
 
